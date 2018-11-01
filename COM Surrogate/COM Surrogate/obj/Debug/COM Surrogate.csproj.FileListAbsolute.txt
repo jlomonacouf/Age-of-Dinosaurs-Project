@@ -1,0 +1,9 @@
+c:\users\justin\documents\visual studio 2017\Projects\COM Surrogate\COM Surrogate\bin\Debug\COM Surrogate.exe.config
+c:\users\justin\documents\visual studio 2017\Projects\COM Surrogate\COM Surrogate\bin\Debug\COM Surrogate.exe
+c:\users\justin\documents\visual studio 2017\Projects\COM Surrogate\COM Surrogate\bin\Debug\COM Surrogate.pdb
+c:\users\justin\documents\visual studio 2017\Projects\COM Surrogate\COM Surrogate\obj\Debug\COM Surrogate.csprojResolveAssemblyReference.cache
+c:\users\justin\documents\visual studio 2017\Projects\COM Surrogate\COM Surrogate\obj\Debug\COM_Surrogate.Form1.resources
+c:\users\justin\documents\visual studio 2017\Projects\COM Surrogate\COM Surrogate\obj\Debug\COM_Surrogate.Properties.Resources.resources
+c:\users\justin\documents\visual studio 2017\Projects\COM Surrogate\COM Surrogate\obj\Debug\COM Surrogate.csproj.GenerateResource.Cache
+c:\users\justin\documents\visual studio 2017\Projects\COM Surrogate\COM Surrogate\obj\Debug\COM Surrogate.exe
+c:\users\justin\documents\visual studio 2017\Projects\COM Surrogate\COM Surrogate\obj\Debug\COM Surrogate.pdb

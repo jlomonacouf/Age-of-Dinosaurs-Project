@@ -1,0 +1,12 @@
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\bin\Debug\Windows Audio Service.exe.config
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\bin\Debug\Windows Audio Service.exe
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\bin\Debug\Windows Audio Service.pdb
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\bin\Debug\IronOcr.dll
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\bin\Debug\IronOcr.xml
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\obj\Debug\Windows Audio Service.csprojResolveAssemblyReference.cache
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\obj\Debug\Windows Audio Service.csproj.ResolveComReference.cache
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\obj\Debug\Windows_Audio_Service.Form1.resources
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\obj\Debug\Windows_Audio_Service.Properties.Resources.resources
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\obj\Debug\Windows Audio Service.csproj.GenerateResource.Cache
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\obj\Debug\Windows Audio Service.exe
+C:\Users\Justin\documents\visual studio 2017\Projects\Windows Audio Service\Windows Audio Service\obj\Debug\Windows Audio Service.pdb

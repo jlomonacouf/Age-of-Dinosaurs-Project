@@ -1,0 +1,1202 @@
+The basic rock unit defined on the basis of distinctive and easily recognized characteristics is a _______.
+formation
+
+The principle which states that "disturbed rocks or strata are older than those that cut or disturb them" is the principle of ________.
+cross-cutting relationships
+
+The ______ is the product of placing rocks in their proper sequence of formation to create a composite record of geologic events.
+relative geologic time scale
+
+A horizon between rocks or sediments with distinctly different ages is called a ________.
+hiatus
+
+Which of the following is not a type of unconformity?
+superconformity
+
+Radiometric age dating techniques were used to establish the relative geologic time scale.
+false
+
+An isotope is a species of the same element with the same mass and different atomic number.
+false
+
+The principle which states that "in layered rocks (or strata) the oldest rocks are at the bottom and the younger layers are on top" is the principle of _______.
+superposition
+
+______ refers to the number of protons of an atom.
+atomic number
+
+In a succession of strata, fossil species succeed one another in a definite and recognizable order.
+true
+
+The short half-life of carbon-14 limits the use of this technique to generally dating materials less than _______ years old.
+50,000 - 60,000
+
+Disturbed rocks or strata are ______ those rocks that disturb or cut through them.
+older than
+
+Particles that settle under the influence of gravity settle to more nearly vertical layers.
+false
+
+In a succession of strata, fossil species succeed one another in a definite and recognizable order. This order of appearances and disappearances is largely the consequence of _______.
+all of these
+
+The principle which states that "strata extend in all directions until they thin against edges of the basins they accumulated in" is the principle of _______.
+original lateral continuity
+
+The original continuity of strata in a basin can be broken. A river can carve a canyon into a basin leaving once continuous layers stranded on opposite sides of the canyon. According to the principle of lateral continuity, these opposite sides of the valley were once laterally continuous.
+true
+
+This type of unconformity separates horizontal sedimentary rocks above and below the unconformity.
+disconformity
+
+Radiometric age dating, the basis of the establishment of the absolute geologic time scale, was not possible until after the discovery of radioactivity in the 20th century.
+false
+
+Based upon physical characteristics alone (not fossil characteristics), which type of hiatus would be most difficult to identify?
+disconformity
+
+Radioactive decay is the spontaneous nuclear disintegration of isotopes at ________ rates.
+constant
+
+_______ is the sum of protons and neutrons in the nucleus of an atom.
+atomic mass
+
+Which of the following is the oldest?
+lower creatceous
+
+History is a sequence of events placed in proper chronological order.
+true
+
+Water expands by 25% when it freezes.
+false
+
+Solution is a major chemical weathering process in regions with large exposures of ________.
+limestone
+
+The concentrations of _____ ions is a solution determines the acidity, so the greater the concentration of these ions the greater the acidity.
+hydrogen
+
+Oxidation of iron in soils and rocks causes increase in reddish color.
+true
+
+_____ weathering processes are those PHYSICAL processes that cause rock to break down or disintegrate into smaller and smaller fragments
+mechanical
+
+The process by which rocks and mineral at the surface of the Earth are broken down into smaller rocks and eventually into soils is collectively referred to as the processes of ______.
+weathering
+
+Oxidation refers to reactions with _____ that form oxides.
+oxygen
+
+______ is the reaction between hydrogen ions (H+) and hydoxyl ions (OH-) of water and a mineral's ions
+Hydrolysis
+
+Clay and quartz are common products of long term chemical weathering.
+true
+
+Running water, wind, and glaciers transport weathered products elsewhere, where they are deposited to form sediments and later become_______ as sedimentary rocks.
+lithified
+
+Joints are always pathways for mechanical and chemical weathering and over time can even determine the location of the river and drainage systems.
+true
+
+Chemical weathering produces clay minerals, various ions in solution, and soluable compounds.
+true
+
+Calcite, the major constituent of limestone, is soluble in acidic water.
+true
+
+Mechanical weathering dominates over chemical weathering in warm climates.
+false
+
+Most rocks exhibit systems of joints which run perpendicular to bedding planes or the surface.
+true
+
+Slabs of rock slips, slide, or break off large rock masses along concentric joints in a process called ______.
+exfoliation
+
+Which of the following is not a cause of mechanical weathering?
+oxidation
+
+Weathering and erosian produce sediments that later form ______ sedimentary rocks.
+detrintal or terrigenous
+
+Acids produced by decaying plant material and the organisms feeding on it help dissolve cements and rocks (e.g, limestone).
+true
+
+Hydrolysis is the major agent of weathering in cool climates.
+false
+
+___ is a detrital sedimentary rock formed by cementation of individual grains ranging in size from 1/16 to 3
+Sandstone
+
+Fossils are usually preserved in what kind of rocks
+sedimentary
+
+Unconsolidated sediments (ec, mud) are turned into sedimentary rocks (eg, shale) by a process called
+lithification
+
+Conglomerates and breccias are distinguished from each other on the basis of ___ their course fragments are
+how rounded or angular
+
+___ differs from limestone in that some of the calcium has been replaced by magnesium changing it to magnesium carbonate CaMg(CO3)2
+Dolomite
+
+___ is an important process in lithification causing a reduction in the pore space between unconsolidated grains in the sediment
+compaction
+
+Shale differs from mudstone by breaking into small pieces along bedding planes. This breakage charactristic is called ___
+fissility
+
+___ is the most common chemical sedimentary rock
+Limestone
+
+The two principal types of sedimentary rocks are called __ and __
+Detrital and chemical
+
+Which of the following is a common cementing material in sedimentary rocks
+All of these (silica, calcite, iron oxide)
+
+The White Cliffs of Dover are composed of this type of sedimentary rock made up of the calcium carbonate skeletal remains of microscopic marine algae
+Chalk
+
+The most commonly used grain size scale in use is the ___ Scale that divided particle size (ex: clay, silt, sand, gravel) by a specific size range in millimeters (clay is less than 1/256mm)
+Wentworth
+
+Sorting refers to the range of ___ in a clastic sediment or sedimentary rock
+particle size separation
+
+Some sedimentary rocks begin as the weathered products of existing rocks
+True
+
+The process of binding sediment grains together is ___ where minerals are precipitated in the pore spaces
+cementation
+
+A ___ limestone is composed to a large extent by the skeletal remains of invertebrate fossils (corals, sponges, bryozoans, pekecypods, echinoids)
+bioclastic
+
+Lithostatic pressure is the pressure resulting from the weight of the overlying rocks
+True
+
+Claystones do not exhibit fissility but break into blocky masses
+True
+
+Most chemical sedimentary rocks form from percipitation from solution in fresh water (lakes, rivers, caves, springs) or in the sea
+True
+
+___ are sedimentary rocks formed of minerals that were precipitated from solution with evaporation of the liquid they were dissolved in
+Evaporites
+
+Chert has a ___ fracture pattern, making it easy to work into tools and projectiles (arrowheads, scrapers)
+concoidal
+
+___ is a detrital sedimentary rock formed by cementation of individual grains ranging in size from 1/16 to 2
+Sandstone
+
+Sedimentary rocks have 2 types of texture: clastic (or detrital) and non-clastic (crystalline)
+True
+
+___ sedimentary rocks form from the organic and inorganic precipitation of minerals from an aqueous solution or the accumulation of organic matter
+Chemical
+
+Peat is brownish, soft, spongy and is composed almost entirely of recognizable plant remains. Burial of peat decreases its water content and gradually changes it to coal
+true
+
+The ___ of a particle is the degree to which the shape of the particle approaches the form of a sphere
+sphericity
+
+The degree of sorting reflects: the degree of mechanical and chemical weathering producing the sediment, the transportation process, and post despositional process that may alter the sediment grain size distribution
+True
+
+What percent of sediments are converted to sedimentary rocks and account for the exposed rocks on the Earths surface
+75
+
+A ___ is a coarse grained limestone composed of poorly cemented shells and shell fragments (often of nearshore species)
+Conquina
+
+This process is important in lithification causing a reduction in pore space between unconsolidated grains in the sediment
+compaction
+
+___ sedimentary rocks are formed from the accumulation of minerals and rock fragments eroded from preexisting rocks (metamorphic, sedimentary, igneous) or their weathered by products
+Detrital or Terrigenous
+
+Which of the following is a poorly sorted detrital sedimentary rock
+Conglomerate
+
+___ is a biochemical sedimentary rock composed f combustible material derived from the partial decomposition of plants
+Coal
+
+___ is a detrital sedimentary rock composed of grains between 1/16 and 1/256
+Siltstone
+
+___ is a soft chemical sedimentary rock composed almost entirely of the calcium carbonate skeletons of microscopic marine phytoplankton (coccolithophores)
+Chalk
+
+A conglomerate is composed predominantly of rounded to subrounded clasts, a significant proportion being gravel size
+True
+
+Marine vertebrate fossils are Mesozoic sedimentary rocks include __. They were nektonic (free swimming) and had a global distribution
+All of these
+
+Correlation of ancient or fossil tracks, trails, and burrows with those in modern environments have allowed scientists to use these trace fossils to interpret such ancient environmental factors as diverse as water and sediment oxygen levels
+True
+
+__ are essentially little waves of sand that develop on a depositional surface
+Ripple marks
+
+__ is a clay formed by the alteration of volcanic ash
+Bentonite
+
+Iron can cause green, purple, and black color in rocks
+True
+
+Sediments accumulating in an aquatic environment, low in oxygen content, are usually this color
+Dark gray or black
+
+__ are finely-bedded sedimentary rocks (usually claystone to siltstones) often alternating between carbon-rich and carbon-poor beds
+Varves
+
+Eolian sediments are usually composed of
+Sand
+
+__ refers to the accumulation of deposits that exhibits specific characteristics, reflecting a specific environment, and grading into other sedimentary accumulations formed at the same time but with different characteristics
+A Sedimentary facies
+
+__ beds are usually mixed or contorted in some manner. They indicate proximity to unstable sediment sources or disturbances by earthquakes and volcanoes
+Disturbed
+
+Dinosaur remains are generally found in __ rocks
+Sedimentary
+
+__ are sub-polygonal shrinkage cracks produced by the dying of clay-rich sediment
+Mud cracks
+
+When particles in a sedimentary bed change from coarse at the bottom to fine at the top, bedding is defined as __
+Graded
+
+__ sediments are usually fine-grained and converted into shales and siltstones, sandstones, and coal
+Deltac
+
+Hematite can produce sediment shades of yellow and brown
+False
+
+__ occur where there is an even back-and-forth motion of water or air, as offshore just outside the surf zone
+Oscillation ripples
+
+Invertebrate fossils are less common from the marine realm than from the terrestrial environments
+False
+
+Sedimentary rocks formed in __ environments have produced the greatest number of dinosaur remains
+fluvial or river
+
+Leaf characteristics of fossilized plants are very indicative of
+All of these
+
+__ occur on the base (usually a siltstone or sandstone) and represent a filling of groove, track, or depression of the underlying bed
+Sole marks
+
+The colors of sedimentary rocks are reflections of the climate and environments they form in and the composition of the sediments within them
+True
+
+Tracks and trails of organisms can be preserved in sediment and are considered a type of __
+Trace fossil
+
+Dinosaur remains are rarely found in __ sedimentary rocks
+Eolian
+
+__ are large bodies of sediment deposited where streams or rivers empty into lakes or the sea
+Deltas
+
+Current ripples are symmetrical with gentle slopes in the upwind or upstream direction and steeper downwind or downstream slopes
+False
+
+Spores and pollen can be found in the fossil excrement of dinosaurs (called coprolites)
+True
+
+Sedimentary rocks rich in volcanic ash tend to have light greenish to blueish-green hues
+True
+
+Which of the following can provide information about the environment sediments were deposited in
+All of these
+
+__ describes beds at an inclination to the horizon
+Cross-bedding
+
+Microscopic fossils of algal plants and protozoans can be used to estimate parameter(s) such as
+All of these
+
+__ is the process of removal of the original skeletal material and simultaneous atom-by-atom secondary replacement by another material
+Replacement
+
+__ are stomach stones swallowed by animals to aid in digestion
+Gastroliths
+
+Most marine invertebrates have hard parts or skeletons made of calcite or __ (a less stable form of calcite)
+Argonite
+
+__ is a viscous (thick) hydrocarbon that escapes through fractures or faults from underground hydrocarbon sources
+Tar
+
+__ are tracks, trails, or burrows of organisms that live on the surface (epifaunal) or beneath the sediment surface (infaunal)
+Trace fossils
+
+Most __ is the hardened resin of conifer trees
+Amber
+
+in the process of replacement the original microstructure is usually destroyed
+True
+
+Teeth are commonly made of __ and are often preserved in their unaltered mineralogy
+Calcium phosphate
+
+Common microfossils made of silica are
+diatoms and radilarians
+
+Permineralization makes fossil bone denser than living bone
+True
+
+Vertebrate fossils are never found in peat
+False
+
+Dinosaur footprints are not considered fossils
+False
+
+Peat forms in __ deprived and acidic waters
+oxygen
+
+__ are the most common fossils in amber
+Insects
+
+Most dinosaur bones are __
+permineralized
+
+An internal mold is an impression of the outside of the shell or fossil showing only the external detail of the fossil
+False
+
+Each of the following are factors that enhance preservation except __
+high acid content
+
+During recrystallization, the external form is unchanged but internal microstructures are obscured or destroyed
+True
+
+Hillsides are good for fossil collecting, particularly where there is erosion
+True
+
+The most common fossils preserved in peat are __
+plants
+
+If a leaf falls into wet concrete and leaves an impression, this impression would be an example of a __
+External mold
+
+An impression of the exterior of a shell or bone is a
+external mold
+
+__ is the process by which the soft tissue is preserved as a carbon film by volatilization of hydrogen, oxygen, and nitrogen
+Carbonization
+
+Permineralized or petrified wood is most common in sediments also containing
+volcanic ash
+
+Leaves, crustaceans, fish and insects are often carbonized
+True
+
+Some marine and fresh water sponges secrete __
+siliceous spicules
+
+A fossil is any evidence, direct or indirect, of the existence of organisms in prehistoric time
+True
+
+If a shell of an invertebrate is filled with sediment and the shell later dissolves, the sediment filling the shell can produce a __
+Internal mold
+
+Mummification or dessication might occur in an acid environment by the burial of an animal in hot sand shortly after death
+True
+
+Although insects are some 75 percent of all living species, they are far fewer than 1 percent of described fossil species
+True
+
+Each of the following are factors that inhibit preservation except __
+Anaerobic activity
+
+Fossil frozen mammoths and rinoceroses have been found in this country
+Russia (Siberia and Alaska)
+
+An external mold is formed by dissolution of the shell and filling of the former interior and shell area with sediment or minerals
+False
+
+The fossilization process by which porous spaces in the shell, or bone are filled with minerals is called __
+Permineralization
+
+__ or dessication of fossils results from a drying out of tissues prior to complete decomposition
+Mummification
+
+In the process of replacement the original microstructure is usually destroyed
+False
+
+Silica replacement of marine fossils in relatively uncommon
+False
+
+__ are the fossilized solid excretory products of animals
+Coprolites
+
+Pyritization is the process where the original material of the skeleton or sometimes soft tissue becomes replaces or coated with pyrite during fossilization
+True
+
+Pleistocene vertebrates have been recovered from the tar pit at this site
+Rancho le Brea of Los Angles
+
+Sediment thickness decreases away from the Mid-Atlantic Ridge and reaches minimum thickness along the adjacent continental margins
+False
+
+Which of the following island(s) is a volcanic center of the mid-Atlantic ridge
+Iceland
+
+The direction of plate motion is parallel to the ridge crests generating the plate
+False
+
+A __ is where new crust is created as plates move apart
+divergent plate boundary
+
+The location of __ is marked by linear distributions of shallow earthquakes
+transform-faults
+
+__ was a synapsid plant-eater and is found in Permian rocks of Africa, Madagascar, India and Antarctica
+Lystrosaurus
+
+The concept of __ was introduced to account for the origin and pattern of magnetic anomalies
+seafloor spreading
+
+Fracture zones on the seafloor are parallel to the direction of plate motion
+True
+
+Zones of ocean crust with normal polarity produce positive magnetic anomalies, and zones with reversed polarity produce negative anomalies
+True
+
+Oceanic __ are the deepest regions of the oceanic basins
+trenches
+
+Oceanic crustal ages are youngest near ridges and progressively older away from them
+True
+
+A __ boundary is the zone along which plates slide past one another and crust is neither produced nor destroyed
+transform-fault plate
+
+The greatest global concentration of volcanoes is around the rim of the Pacific where their concentration is referred to as the __
+ring of fire
+
+__ is the study of the Earth's magnetic history
+Palemagnetism
+
+__ is viewed as the developer of the theory of continental drift
+Wegener
+
+Coal and oil deposits form from terrestrial and oceanic carbon deposits
+True
+
+Zones of similar geologic history and age occur on opposite margins of the Atlantic in conjugate positions
+True
+
+The frequent reversals of the magnetic field have left an alternating signature of normal and reversed polarity crust on the ridge flanks as they spread away from the ridge crest
+True
+
+__ was a small freshwater reptile from the Early Permian of coastal Brazil and west Africa
+Mesosaurus
+
+Deep-sea trenches are long, narrow, and deep bathymetric depressions associated with volcanic arcs that together mark a collisional zone where one __ plate is subducted under another
+lithospheric
+
+When magma cools to form a volcanic rock, it acquires the magnetic signature of the current magnetic field of today. The magnetic field of today has __ polarity
+Normal
+
+Modern reefs are generally restricted between 30 degrees north and south latitudes in water warmer than 70 degree F
+True
+
+A __ is on the trailing edge of a continental plate and away from plate margins
+passive continental margin
+
+A __ is a boundary between two plates that are moving toward one another
+convergent plate boundary
+
+When lithosphere with oceanic crust meets lithosphere with continental crust, a trench forms and denser oceanic lithosphere is subducted
+True
+
+Major zones of earthquakes occur near trenches where a zone of dipping shallow, intermediate, and deep earthquakes defines a __ of seismicity
+Benioff zone
+
+J. Tuzo Wilson hypothesized that the Pacific Plate was moving over a stationary __ in the mantle where there was a localized source of heat energy (thermal or mantle plume)
+hot spot
+
+Positive magnetic anomalies are places where the magnetic field intensity is lowest
+False
+
+The __ is the rigid outer layer from the eath's surface down to the asthenosphere
+Lithosphere
+
+After the disappearance of the late Palezoic ice sheets in the Southern Hemisphere, an assemblage of seed ferns spread throughout portions of South American, Australia, India and Antarctica. This flora is known as the __ flora
+Glossopteris
+
+__ are minerals that form from the evaporation of water, generally seawater
+Evaporites
+
+Oceanic __ are the largest bathymetric features in the ocean basins
+Ridge
+
+The oldest marine sediments in the Atlantic occur along the margins of the basins while the youngest are on the Mid-Atlantic Ridge
+True
+
+Ice sheets deposit unique deposits of unsorted rocks called
+glacial till
+
+__ refers to the force imparted on a plate by the gravity-driven subduction of a cold, dense slab of lithosphere surrounded by warmer asthenosphere, thus pulling the rest of the plate along as it descends into the asthenosphere
+Slab pull
+
+dead coral reefs on guyots (flat-toppd volcanic seamounts believed to be wave-cut) occur well below present sea level
+True
+
+Which of the following present continents was not part of Gondwaland
+Europe
+
+__ is the name of the supercontinent that existed during the late Paleozoic-early Mesozoic, comprising all of the present continents
+Pangaea
+
+Heat-driven convection in the asthenosphere, or the entire mantle, is a fundamental cause of plate motion
+True
+
+__ were carnivorous mammal-like reptiles that first appeared in the Late Permian
+Cynodonts
+
+The Australian plate still moves northward today. This northward motion is being accommodated by subduction under __, causing the mountainous terrain, high seismicity, and volcanism
+Indonesia
+
+During the Cretaceous, North America was still connected to Europe and Asia
+True
+
+During the Early Jurassic, Europe separated from Greenland
+False
+
+By the Late Jurassic, the Atlantic had not yet formed north of Spain
+True
+
+During the Cretaceous Period India separated from Madagascar and began moving north (from Antarctica) to collude with Asia after the extinction of dinosaurs
+True
+
+During the Cretaceous, South America was completely disconnected from Antarctica as a large island continent
+False
+
+The large Pangean supercontinent, with only a few stray landmasses unassembled, extended from pole to pole
+True
+
+During the Mesozoic, North America was near the equator
+True
+
+When dinosaurs evolved, Pangaea was still intact
+True
+
+During the Late Cretaceous, Antarctica began separating from Australia
+True
+
+During the Late Jurassic, North America separated from South America as the __ began forming
+Gulf of Mexico
+
+During the Late Cretaceous, South America was still connected to Antarctica as a large island continent
+True
+
+Europe separated from Greenland before or after the age of dinosaurs
+after
+
+Enormous rift systems began splitting up some of the Pangean supercontinent late in the __ period
+Triassic
+
+During the Mesozoic, North America was near the equator
+True
+
+The __ period ended about 65 million years ago with the mass extinction that ended the reign of the dinosaurs
+Cretaceous
+
+The __ Era includes that interval of time since the extinctions that ended the Mesozoic Era
+Cenozoic
+
+Pangaea was surrounded by the __ Ocean
+Panthalassa
+
+During the Late Triassic, __ began to split portions of Pangaea apart
+rifting
+
+__ was comprised of Europe, part of Asia, Greenland and North America
+Laurasia
+
+__ are failed rifts
+Aulacogens
+
+The dinosaurs evolved during the __ Period
+Late Triassic
+
+By the __ a narrow central Atlantic Ocean formed, separating Africa from eastern North America
+Late Jurassic
+
+Most of Australia's separation from Antarctica occurred during the __
+Cenozoic
+
+__ was comprised of South America, Africa, Madagascar, India, Australia, and Antarctica
+Gondwana
+
+An east-west indentation into low latitude Pangaea, called the __ began to form during the Early Triassic
+Tethys Sea
+
+By the end of the Triassic Period, Pangaea began to rift apart in some places but largely remained intact until the __ Period
+Jurassic
+
+Late Cretaceous rifting and seafloor spreading also began to separate Greenland from North America by formation of the __
+Ladrador Sea
+
+The Australian plate still moves northward today. This northward motion is being accommodated by subduction under __, causing the mountainous terrain, high seismicity, and volcanism
+Indonesia
+
+At the beginning of the __ Period (245 million years ago), all landmasses are assembled into a single continent called Pangea
+Triassic
+
+During the __ the South Atlantic Ocean widened rapidly
+Cretaceous
+
+At their maximum, Cretaceous seas covered approximately half of the present land area of the Earth
+False
+
+For most of the Mesozoic, __ occurred along the western margin of North America causing the formation of volcanic arcs and numerous collisional events of volcanic arcs and microcontinents
+subduction
+
+Closer toward the margins of Pangaea, __ climates of altering wet and dry seasons were common
+monsoonal
+
+Higher average temperatures cause some expansion of ocean waters and raise sea levels
+True
+
+Although Pangaea was beginning to rift apart in the __, the still-connected continents facilitated widespread dispersal of the dinosaurs
+Triassic
+
+If the average rate of seafloor spreading increases on a global basis, ridge volume decreases
+False
+
+The Connecticut River Valley was a Mesozoic __ containing abundant dinosaur footprints
+rift basin
+
+By the Middle Jurassic, sea level began to rise again, continuing to a high level in the __
+Late Cretaceous
+
+Dry and hot desert conditions persisted in many interior continental areas of Pangaea during the Early and Middle Jurassic
+True
+
+Rocks of the Upper Jurassic contain more diverse and abundant dinosaur fossils then those of the earlier Jurassic
+True
+
+The Late Jurassic partial breakup of Pangaea and higher sea level increased the proximity of large land areas to the moisture of the ocean; as a result, climate become more continental (warmer with less seasonality) and drier
+False
+
+Monsoons are caused by seasonal differences in temperatures and atmospheric pressure between oceans and continents
+True
+
+During the Cretaceous, cool temperate forests covered the polar regions where there was seasonal snowfall and thick ice sheets
+False
+
+The lack of global glaciation would case sea level to be:
+higher than today
+
+At the peak of Mesozoic warmth, in the Cretaceous, the pole-to-equator temperature gradient was probably no more than __ degrees C
+20
+
+The continued warm climate of the Late Cretaceous, combined with higher than average seafloor spreading rates, resulted in the highest sea level of the Mesozoic
+True
+
+During the Early Cretaceous, conifers became dominant over cycads
+True
+
+During the Triassic, Gondwana was north of the equator
+False
+
+Higher Late Jurassic sea level flooded the low-lying portions of continents creating __ sea
+An epicontinental
+
+Plate tectonic events inhibited early dinosaur dispersal
+False
+
+During the Late Jurassic, an interior seaway called the __ Sea formed in North America, extending from the Arctic almost to the Gulf of Mexico
+Sundance
+
+Flowering trees and grasses evolved during the Middle Triassic
+False
+
+During the Jurassic, western North America was covered by expansive eolian sands
+True
+
+Late Cretaceous lea level was so high that it flooded the entire Atlantic and Gulf coastal plains of the US
+True
+
+The average elevation of physiographic regions of the ocean basins can change over time, as a consequence of changes in the rates of __
+Seafloor spreading
+
+During the Late Cretaceous, forests grew in coastal Antarctica and in Canada as far north as 85 degrees N latitude
+True
+
+The Tethys Seaway divided Africa from Europe in the Middle Jurassic, separating African dinosaurs from their cousins to the north
+True
+
+The three geologic periods of the Mesozoic are, from the oldest to youngest,
+Triassic, Jurassic, Cretaceous
+
+The rise of the Late Jurassic sea level continued into the Cretaceous
+True
+
+Most sea level change during more recent ( last 2 million years ) geologic time has been the result of
+changes in glacial ice volume
+
+The earliest vascular plants date back to the ___ period.
+Silurian
+
+High-browsing____ declined markedly between the Late Jurassic and Early Cretaceous.
+sauropods
+
+sphagnum or peat moss is an example of a
+bryophyte
+
+during the____, angiosperms began overcoming non-flowering plants as the dominant land plants.
+cretaceous period
+
+This group of plant that was extinct except in Asia but later reintroduced to the rest of the world by man:
+ginkgoes
+
+spores are produced in structures called____ (e.d., the prominent brown spots on the underside of fern fronds).
+sporangia
+
+An ancient group of conifers is the family___ that still grows today in the southern hemisphere.
+Araucariaceae
+
+Ferns are ancient plants dating back long before dinosaurs.
+True
+
+Seedless vascular plants were the earliest land plants.
+false
+
+The elevation about which trees cannot grow because of snow and very cold temperature is known as the ______.
+tree line
+
+Simple non-vascular plants like____ were among the earliest land plants
+bryophytes
+
+Fossil fruit has never been in Mesozoic sedimentary rocks.
+False
+
+____grown in wet or damp areas often carpeting rocks and decaying wood on the forrest floor.
+Sphagnum mosses.
+
+Seed ferns are among the earliest seed-producing plants.
+True
+
+___ plants are those lacking specialized cells for the movement of nutrients and water.
+Non-vascular
+
+For most of Earth History, the land has been virtually void of all plant life.
+True
+
+Our solar system is about ____ years old.
+4.6 billion
+
+_____ are seedless, spore-producing, vascular plants whose reproductive system ties them to moist environments.
+Ferns
+
+The late Triassic decline in the distribution and abundance of these plants may be the result of increased grazing by dinosaur herbivores
+seed ferns
+
+The first large forest of vascular plants filled wetland during the _____ period.
+Devonian
+
+_____ are cone-bearing gymnosperms with seeds resting on the projecting scales of their cones.
+conifers
+
+All the modern conifer families were already members of the early Mesozoic landscape
+true
+
+_____ are seed-producing plants
+Gymnosperms
+
+The angiosperm reproducution system is enhanced by insect pollination
+true
+
+The ancient group of conifers know as Araucariaceae survive today in natural habitat and are most common in this region of the world
+the southern hemisphere
+
+Which of the following is not a geologic period in the Mesozoic Era?
+cambrian
+
+Prior to Charles Darwin's famous book, another naturalist had already begun the discussion on the nature of the origin of new species.
+True
+
+Mendel suggested that flowers have two possible genetic factors with a dominant _____ and a recessive _____ and that the color of the offspring's flower could be predicted mathematically based upon the possible combinations of recessive and dominant genes.
+allele
+
+In the 1970's a form of speciation was proposed called ______.
+punctuated equilibrium
+
+The natural variability of inherited characteristics of a species is know as its _______.
+phenotypic variation
+
+Sympatric and allopatric speciation are forms of ______.
+phyletic gradualism
+
+An Essay on the Principles of Population by _____ in 1798 stated that populations increase geometrically while food increases arithmetically, and there is a continuous struggle for food.
+Thomas Malthus
+
+_______ makes species better suited to their environment and prevents less adapted members from reproducing.
+Natural selection
+
+During replication of DNA, the two strands of the DNA double helix separate along the bases, producing a single-stranded near-replica of itself, RNA, which is the genetic code messenger to the _______.
+ribosome
+
+A section of Darwin's ecidence regarding evolution entitled "Rudimentary, atrophied, or aborted organs" referred to the remnants, or vestiges of features no longer used.
+True
+
+Stratophenetic techniques have replaced cladistic analysis in modern studies of dinosaur phylogeny.
+False
+
+Charles Darwin discovered the basic laws of heredity.
+False
+
+A modern statistical technique to determine phylogeny is called _____.
+cladistic analysis
+
+The first part of a species name indicates the ______ the species belongs to.
+genus
+
+Darwin noted that in the struggle for life not all offspring survive, in fact there is a high mortality rate and only those that are the ______ survive.
+fittest
+
+DNA is located in the cell nucleus and is composed of two helical spiral strands known as a ____.
+double helix
+
+If paleontologists interpretation of the evolutionary history of a group of organisms is correct, its phylogeny is ______, containing a group of organisms with a single ancestor and containing all the descendants of the ancestor.
+monophyletic
+
+Each nucleus contains protein strands of nucleic material called chromosomes that have paired strands of large molecules of deoxyribonucleic acid known by the abbreviation ________.
+DNA
+
+Both sympatric and allopatric speciation are considered to be forms of phyletic gradualism because they would produce in the fossil record a full range of intermediate forms between the ancestor and descendent species.
+True
+
+A system of biological classification was established by _____ in the eighteenth century.
+Carolus Linnaeus
+
+When dealing with extinct groups of organisms, what constitutes a new species is based on anatomical or morphological differences.
+True
+
+The________ gave rise to lepidosauromorpha, archosauria, dinosauria, and pterosauria.
+Diapsida
+
+Dimetrodon was one of the first big land carnivores able to kill large prey
+True
+
+The ancestry of dinosaurs has the tetrapoda divided into two major groups, the non-amniotes and the amniotes.
+true
+
+This synapsid is a pelycosaur with a large, narrow head bearing dagger-like teeth and long neural spines on the verterbrae, giving the back a sail-like apperance.
+Dimetrodon.
+
+Which of the following is an amniotic tetrapod?
+A dinosaur
+
+Harry Seeley divided dinosaurs into two distinct orders based upon the chrateristics of the___
+pelvis
+
+Synapsids are very diverse and underwent evolutionary radiation(diversification) during the:
+late paleozoic era
+
+Modern and fossil turtles are anapsids and
+lack skull fenestra
+
+This order of dinosauria has the "pubis directed forward.. and no posterior limb of the bone(pubis) is developed." To put it in other words, the pubis is directed forward(anteriorly) and slightly downward and the ischium points back.
+Saurishia
+
+amniotes are all vertebrates that possess an extra embryonic laye called an:
+amnion
+
+The dinosaurs arose from the amniota clade which divided into two major clades, the:
+Synapsida and Reptilia
+
+These marine reptile groups are diapsids
+Ichtyosaurs and Plesiosaurs
+
+Non-amniotic tetrapods have a reproductive link to water because they lay unprotected eggs which quickly desiccate out of water
+True
+
+The reptilia include two important clades, the Anapsida and the Diapsida, and all their descendants.
+True
+
+Human beings, humming birds, crocodiles, and whales are all:
+amniotes.
+
+tetrapods include all four-legged land vertebrates.
+True
+
+Living groups of nom-amniotic tetrapods, or the modern amphibia are now placed in the lissamphibia
+true
+
+In the ornithischia the pelvis(ischia) is like that of birds (ornithos), and at least a part of the pelvis run posteriorly.
+True
+
+all mammals are synapsids
+True
+
+The term "Dinosauria" was coined by this man to refer to a group of distinct archosaurian reptiles with upright posture.
+Sir Richard owen
+
+_____are used to assist in looking for fossils in the overburden
+Sieves
+
+Geologic maps are useful in identifying rocks of the Mesozoic age for examination of dinosaur remains.
+True
+
+Dinosaur remains are typically found
+on slopes where there is active erosion
+
+Park visitors are allowed to collect fossils and rocks in some of the Nation Park System.
+false
+
+Topographic maps reveal changes in elevation, roads, trails, structures, political boundaries, springs, wells, etc.
+true
+
+Most museums no longer mount the original dinosaur bone but make cast in fiberglass or other resins.
+true
+
+US scientist obtain most of their funding from which one of the following sources?
+the national science foundation.
+
+Licences are often required for import and export of equipment and fossils.
+true
+
+The Mygatt-Moore Quarry shown in the video is located
+on the Utah-Colorado border
+
+The process of dinosaur excavation begins by marking out the site to be excavated.
+true
+
+The outer layers of plaster jacket can be removed with a chisel and hammer, but the inside layers must be removed using more precise tools such as a
+dental cutting wheel.
+
+At modern dinosaur excavation sites, the area being excavated is divided into a measured grid so the location and position of all bones can be recorded.
+true
+
+Dinosaur bones with numerous fractures are stabilized prior to removal from the excavation site by
+brushing with a synthetic glue on them
+
+By downloading topographic maps to GPS unit you can plot your route and position on a topographic map in real time.
+true
+
+In the field, jacketed bones are isolated on a pedestal to____
+facilitate turning them over
+
+Which of the following tools are used to remove sedimentary rock from around dinosaur bones?
+all of these
+
+Heavy equipment(backbones, bulldozers, etc.) is never used to remove thick sequences of overburden covering dinosaur bones.
+false
+
+regions of topographic maps with contours close together represent:
+steeper topography than regions where they are widely spaced.
+
+topographic maps do not provide information about:
+the age of surface rocks.
+
+____is the mass of sediment sitting atop the dinosaur skeleton.
+Overburden.
+
+The cope and marsh dinosaur discoveries in Colorado and Wyoming were from the Triassic.
+False
+
+Between 1910 and 1917, a great Canadian dinosaur rush began where?
+The red deer river valley
+
+The american museum of Natural history expeditions to asia, led by Rod Chapman Andrew, collected in____
+The gobi desert of China and Mongolia
+
+Thousands of dinosaur bones were sent back to eastern museums from Como Bluffs by way of_____
+train
+
+The journal of this famous expedition suggest it may have discovered dinosaur bones though none were collected or sketched
+Louis and Clark
+
+The first credited publication of dinosaur remain was by_____, in 1824
+William Buckland
+
+The first relatively complete dinosaur skeleton was completed in 1883
+True
+
+The term "dinosaur" derives from the greek word "dinosaurian" which mean fighting lizard.
+False
+
+Who coined the name Dinosauria
+Richard Owen
+
+This individual described the first relatively complete North American dinosaur and later became the president of the Academy of Natural Sciences of Philadelphia.
+Joseph Leidy
+
+Fossil dinosaurs found in the Canadian province of Alberta are what age?
+Cretaceous
+
+In the years____large-scale discoveries of dinosaurs in Europe and the United States offered the first large-scale glimpse of whole dinosaurs
+1877 and 1878
+
+The most prolific finds of dinosaur remains in the United States, during the late to early 1900s , came from this region
+west
+
+Mosasurus means
+Meuse lizard
+
+Edward Hitchcock, a president and professor at Amherst College, described, illustrated, and collected dinosaur footprints from:
+The Connecticut valley
+
+The first great international expedition to hunt dinosaur remains was by the Germans (1907-1912) to____
+East Africa
+
+In 1858 the first relatively complete dinosaur to be found in the United States was found in this eastern state.
+New Jersey
+
+Numerous dinosaurs were found in 1877 in a Bernissart, Belgium_____.
+coal mine
+
+The prominent place of dinosaurs in our museums today is a legacy of Cope and Marsh, two men who brought natural history into the lives of every child of generations to come
+True
+
+Othniel Charles Mash (1831-1899) was a professor of paleontology at the Peabody Museum of this university
+Yale
+
+The three main bones of the hind limb are the:
+femur, fibula, and tibia
+
+The scapula is the largest bone at shoulder girdle.
+True
+
+____ means pertaining toward the head end of the dinosaur.
+Anterior
+
+The metatarsals are the bones between tarsals and phalanges.
+True
+
+_______ are the main bones of the upper jaw joints at the posterior of the skull.
+Quadrates
+
+_____ vertebrae are those of the hip region.
+sacral
+
+_____ are small bones in front of the eye socket.
+Lachrymals
+
+_____ means pertaining toward the rear end of the dinosaur.
+Posterior
+
+_____ are paired bones at the posterior of the skull.
+Squamosals
+
+_____ refers to the lower opening of temporal region of the skull.
+Inferior or lateral temporal fenestra
+
+The ____ connects the pelvis with the sacral vertebrae along the medial surface.
+ilium
+
+The _____ is the smaller of the two lower leg bones which is attached to the tibia.
+fibula
+
+The shoulder girdle of dinosaurs consists of the:
+scaplula and smaller coracoid
+
+Many caudal vertebrae have an arch-like structure called a _____ ventral to the centrum.
+chevron
+
+The _____ is the axis aligned along the head-neck-body-tail, an imaginary plane dividing the dinosaur into two equal bilateral parts.
+midline
+
+Some dinosaurs had numerous teeth cemented together to form an extensive shearing and grinding surface called _____.
+dental batteries
+
+_____ refers to the belly side of the dinosaur.
+Ventral
+
+_____ refers to the back side of the dinosaur.
+Dorsal
+
+A spool-shaped structure in the ventral side of a vertebra, which connects to the same structure of adjacent vertebrae, is called a _____.
+centrum
+
+Bipedal dinosaurs habitually walked on their hind limbs, always having longer front limbs.
+False
+
+____ vertebrae are those of the neck, located between the head and back.
+Cervical
+
+The _____ is the upper forearm of foreleg that connects to the scapula at the shoulder.
+humerus
+
+The _____ is the larger of the two lower forearms/forelegs.
+ulna
+
+_____ are the paired bones that make up the rear dorsal surface of the dinosaur skull.
+Parietal bones
+
+The _____ is a bony knob connecting the skull to the backbone.
+occipital condyle
+
+_____ vertebrae are those of the tail.
+Caudal
+
+The average dinosaur skeletons contain approximately 300 bones.
+True
+
+Individual vertebrae have a spool-shaped structure on their ventral side called the ______.
+centrum
+
+The metacarpals are the bones between the carpals and phalanges.
+True
+
+____ refers to the upper opening of the temporal region of the skull.
+Supratemporal fenestra
+
+The most common dinosaur skin texture illustrated in the text resembles the surface texture of a ______
+football or basketball
+
+Cast and mold of dinosaur skin reveal that most consists of
+rounded-shaped tubercules
+
+Most soft tissue is fossilized as a mold or cast
+true
+
+Feathers appear to have evolved in dinosaurs for insulation
+true
+
+all feathers of feathered dinosaurs are of the downy type
+false
+
+The remarkable mummified dinosaur described by Osborn(1912) has large unbroken regions of fossilized skin of what type of dinosaur
+a hadrosaur
+
+Archaeoraptor liaoningenis, a new species of dinosaur first described in National Geographic, conclusively established a link between birds and dinosaurs.
+False
+
+Stomach stones, known as_____ were found in the stomach region of Caudipteryx
+gastroliths
+
+In 1884, Wortzman discovered a skin cast of an iguanodont called____
+Trachodon(now Edmontosaurus)
+
+Dinosaur skin pigments have been discovered and are of many colors
+False
+
+A small oviraptosaur was found in Mongolia with an early evolutionary type of tailbone, the____
+pygostyle
+
+textured skin decreases the surface area of a dinosaurs skin more so than if it were smoother
+false
+
+Some of the skin pavement tubercles illustrated by Osborn(1912) are arranged into cluster areas.
+True
+
+No modern reptiles have skin pigmentation/color or textured skin.
+False
+
+Sinornithosaurus milenii has long arms, long, curved claws, and possesses a boomerang-shaped furcula or wishbone
+True
